@@ -1,0 +1,10 @@
+17	Aiden	1.65
+16	Matthew	1.33
+15	Daniel	1.51
+1008	Amelia	1.78
+14	Ethan	1.78
+13	Alexander	2.02
+12	Michael	1.61
+1007	Charlotte	1.72
+11	Lucas	1.32
+10	Jacob	2

@@ -1,0 +1,8 @@
+strawberry
+cherry
+blueberry
+plum
+blackberry
+cranberry
+melon
+peach

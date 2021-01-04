@@ -1,0 +1,23 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 중간 디렉터리(x64\Debug\)에 다른 프로젝트(hightex2-4.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  07.c
+c:\users\고영상\source\repos\hyunjang\hightex2-4\07.c(9): error C2065: 'ary': 선언되지 않은 식별자입니다.
+c:\users\고영상\source\repos\hyunjang\hightex2-4\07.c(9): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+c:\users\고영상\source\repos\hyunjang\hightex2-4\07.c(9): error C2056: 식이 잘못되었습니다.
+c:\users\고영상\source\repos\hyunjang\hightex2-4\07.c(9): error C2466: 상수 크기 0의 배열을 할당할 수 없습니다.
+c:\users\고영상\source\repos\hyunjang\hightex2-4\07.c(10): error C2065: 'ary': 선언되지 않은 식별자입니다.
+c:\users\고영상\source\repos\hyunjang\hightex2-4\07.c(10): warning C4047: '=': 'int (*)[0]'의 간접 참조 수준이 'int'과(와) 다릅니다.
+c:\users\고영상\source\repos\hyunjang\hightex2-4\07.c(12): error C2065: 'ary': 선언되지 않은 식별자입니다.
+c:\users\고영상\source\repos\hyunjang\hightex2-4\07.c(12): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+c:\users\고영상\source\repos\hyunjang\hightex2-4\07.c(14): error C2065: 'ary': 선언되지 않은 식별자입니다.
+c:\users\고영상\source\repos\hyunjang\hightex2-4\07.c(14): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+c:\users\고영상\source\repos\hyunjang\hightex2-4\07.c(15): error C2065: 'ary': 선언되지 않은 식별자입니다.
+c:\users\고영상\source\repos\hyunjang\hightex2-4\07.c(15): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+c:\users\고영상\source\repos\hyunjang\hightex2-4\07.c(22): error C2065: 'ary': 선언되지 않은 식별자입니다.
+c:\users\고영상\source\repos\hyunjang\hightex2-4\07.c(22): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+c:\users\고영상\source\repos\hyunjang\hightex2-4\07.c(24): error C2065: 'ary': 선언되지 않은 식별자입니다.
+c:\users\고영상\source\repos\hyunjang\hightex2-4\07.c(24): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+c:\users\고영상\source\repos\hyunjang\hightex2-4\07.c(33): error C2065: 'ary': 선언되지 않은 식별자입니다.
+c:\users\고영상\source\repos\hyunjang\hightex2-4\07.c(33): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+c:\users\고영상\source\repos\hyunjang\hightex2-4\07.c(35): error C2065: 'ary': 선언되지 않은 식별자입니다.
+c:\users\고영상\source\repos\hyunjang\hightex2-4\07.c(35): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+c:\users\고영상\source\repos\hyunjang\hightex2-4\07.c(48): error C2036: 'int (*)[0]': 알 수 없는 크기입니다.

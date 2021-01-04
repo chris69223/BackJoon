@@ -1,0 +1,5 @@
+﻿  066.c
+c:\users\고영상\source\repos\hyunjang\tree\066.c(38): warning C4133: '함수': 'treenode *'과(와) 'treeNode *' 사이의 형식이 호환되지 않습니다.
+c:\users\고영상\source\repos\hyunjang\tree\066.c(38): warning C4133: '=': 'treeNode *'과(와) 'treenode *' 사이의 형식이 호환되지 않습니다.
+c:\users\고영상\source\repos\hyunjang\tree\066.c(49): warning C4133: '함수': 'treenode *'과(와) 'treeNode *' 사이의 형식이 호환되지 않습니다.
+  tree.vcxproj -> C:\Users\고영상\source\repos\hyunjang\x64\Debug\tree.exe

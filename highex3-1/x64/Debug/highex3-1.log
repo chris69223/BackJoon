@@ -1,0 +1,3 @@
+﻿  10.c
+c:\users\고영상\source\repos\hyunjang\highex3-1\10.c(16): warning C4013: 'strcpy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  highex3-1.vcxproj -> C:\Users\고영상\source\repos\hyunjang\x64\Debug\highex3-1.exe

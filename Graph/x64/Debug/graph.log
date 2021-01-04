@@ -1,0 +1,3 @@
+﻿  2178.c
+c:\users\고영상\source\repos\hyunjang\graph\2178.c(41): warning C4101: 'v1' :참조되지 않은 지역 변수입니다.
+  graph.vcxproj -> C:\Users\고영상\source\repos\hyunjang\x64\Debug\graph.exe
